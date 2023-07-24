@@ -1,0 +1,78 @@
+{
+  "test": {
+    "project01": {
+      "url": "https://www.npmjs.com/login",
+      "account": {
+        "username": "jewel105",
+        "password": "xxxxxx"
+      },
+      "elements": {
+        "userInput": "#login_username",
+        "pwInput": "#login_password",
+        "submit": "[type='submit']"
+      }
+    },
+    "project02": {
+      "url": "https://www.npmjs.com/login",
+      "account": {
+        "username": "jewel105",
+        "password": "xxxxxx"
+      },
+      "elements": {
+        "userInput": "#login_username",
+        "pwInput": "#login_password",
+        "submit": "[type='submit']"
+      }
+    },
+    "project03": {
+      "url": "https://www.npmjs.com/login",
+      "account": {
+        "username": "jewel105",
+        "password": "xxxxxx"
+      },
+      "elements": {
+        "userInput": "#login_username",
+        "pwInput": "#login_password",
+        "submit": "[type='submit']"
+      }
+    }
+  },
+  "production": {
+    "project01": {
+      "url": "https://www.npmjs.com/login",
+      "account": {
+        "username": "jewel105",
+        "password": "npm2568501105"
+      },
+      "elements": {
+        "userInput": "#login_username",
+        "pwInput": "#login_password",
+        "submit": "[type='submit']"
+      }
+    },
+    "project02": {
+      "url": "https://www.npmjs.com/login",
+      "account": {
+        "username": "jewel105",
+        "password": "xxxxxx"
+      },
+      "elements": {
+        "userInput": "#login_username",
+        "pwInput": "#login_password",
+        "submit": "[type='submit']"
+      }
+    },
+    "project03": {
+      "url": "https://www.npmjs.com/login",
+      "account": {
+        "username": "jewel105",
+        "password": "xxxxxx"
+      },
+      "elements": {
+        "userInput": "#login_username",
+        "pwInput": "#login_password",
+        "submit": "[type='submit']"
+      }
+    }
+  }
+}
